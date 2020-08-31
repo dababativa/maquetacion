@@ -1,0 +1,30 @@
+.banner {
+  background-color: darkolivegreen;
+  height: 100px;
+  color: white;
+}
+
+.left-menu {
+  background-color: yellow;
+}
+
+.odd {
+  background-color: red;
+}
+
+.even {
+  background-color: lightblue;
+}
+
+.footer {
+  background-color: darkolivegreen;
+  color: white;
+}
+
+.top-menu {
+  background-color: pink;
+}
+
+.content {
+  height: 200px;
+}
